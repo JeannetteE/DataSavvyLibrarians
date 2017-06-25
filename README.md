@@ -1,5 +1,5 @@
 # DataSavvyLibrarians
-Kort introduktion til, hvordan GitHub kan anvendes til at udarbejde hjemmesider v. DS faggruppens gå-hjem-møde 26/4 2017
+Kort introduktion til, hvordan GitHub kan anvendes til at udarbejde hjemmesider v. DS faggruppens gå-hjem-møde 26/4 2017 på IVA
 
 Inden man kan gå i gang er det vigtigt at få installeret nogle ekstra værktøjer, så man kan arbejde bedre. Man kan faktisk nøjes med at anvende GitHub i første omgang, men det har sin fordel også at anvende en Editor - Atom samt en GitHub desktop client
 
@@ -14,5 +14,4 @@ Inden man kan gå i gang er det vigtigt at få installeret nogle ekstra værktø
  Det kræver også at man anvender Markdown sproget - men læs og lær gerne mere her 
  https://guides.github.com/features/mastering-markdown/
  
- Tilføj selv egne noter hen ad vejen 
-
+ Tilføj selv egne noter hen ad vejen
