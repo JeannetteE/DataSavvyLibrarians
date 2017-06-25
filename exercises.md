@@ -22,7 +22,7 @@
 
 1. Næste og sidste opgave er funktionen **Fork**
 
-    1. klik ind på https://github.com/JeannetteE/DataSavvyLibrarians (udarbejde til lejligheden)
+    1. klik ind på https://github.com/JeannetteE/DataSavvyLibrarians (udarbejdet til lejligheden)
 
     1. Klik på **FORK** øverst til højre og gem en KOPI af Jeannettes repo 
     1. I har nu lejlighed til at ændre i dette repositorie, som Jeannette har oprettet
