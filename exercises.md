@@ -3,10 +3,12 @@
 1. Login på jeres GitHub konto - https://github.com og opret en enkelt hjemmeside 
 
     1. klik på __+__ tegnet øverst til højre, lige ved siden af jeres profil-info
-        1. følg trinene, og husk et navn til jeres repositorie
-        1. husk at markere Readme.md filen også
-        1. opret en ny fil - kald den index.md og skriv en kort tekst, anvend evt. Markdown syntaxen https://guides.github.com/features/mastering-markdown/ og gem (commit) ændringerne
-    1. Klik derefter på _Settings_ og scroll ned, så I kan gøre hjemmesiden offentlig **sker under .. **
+        1. Opret **New Repository**
+        1. Følg trinene, og husk et navn til jeres repositorie
+        1. Husk også at markere Readme.md filen, inden i klikker endeligt **save**
+        1. opret en ny fil i jeres nye repositorie, kaldet **index.md** og skriv en kort tekst. For at teksten skal se _pæn_ ud er det vigtigt at anvende Markdown syntaxen. Se mere på ![Cheat Sheet guiden](https://guides.github.com/features/mastering-markdown/) Gem (commit) dernæst ændringerne
+    1. Klik derefter på _Settings_ og scroll ned, så I kan gøre hjemmesiden offentlig **sker under afsnittet om GitHub pages.. **
+        1. Vigtig at vælge __Master Branch__ og klikke save
     1. Derefter kan I vælge **Standard tema** - en feature som GitHub har tilføjet 
     
 1. **Clone eller Download** jeres Repository ned på jeres computer ( husk hvordan og hvor I gemme repositoriet
