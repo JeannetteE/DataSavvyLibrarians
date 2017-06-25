@@ -1,9 +1,9 @@
 ## Første spæde forsøg på hjemmeside udarbejdet i GitHub 
 
-* Definitioner
-* Noter til det gennemgåede materiale
-* Links til gode vejledende sider 
-* Billeder / Ikoner
+1. Definitioner
+1. Noter til det gennemgåede materiale
+1. Links til gode vejledende sider 
+1. Billeder / Ikoner
 
 ### Definitioner
 
