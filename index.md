@@ -1,30 +1,32 @@
-## Første spæde forsøg på hjemmeside udarbejdet i GitHub 
+## Første spæde forsøg på hjemmeside udarbejdet i GitHub
+
+## test 
 
 1. Definitioner
 1. Noter til det gennemgåede materiale
-1. Links til gode vejledende sider 
+1. Links til gode vejledende sider
 1. Billeder / Ikoner
 
 ### Definitioner
 
-- Fork = 
+- Fork =
 - Branch =
 - Commit =
 - Pull request =
 - Push =
-- Clone = 
+- Clone =
 
 
-### Noter til det gennemgåede materiale 
+### Noter til det gennemgåede materiale
 
-### Links til gode vejledende sider 
+### Links til gode vejledende sider
 
-### Billeder / Ikoner 
+### Billeder / Ikoner
 
 Markdown understøtter EMOIJs - se http://www.emoji-cheat-sheet.com/
 I koden kan man se, hvordan man indsætter billeder og ikoner via brug af Markdown syntax´en
 
-> Format: skriv _!_ tilføj _[Alt Text]_ skarpt efterfulgt af den valgte _(url)_, hvorfra billedet er fundet 
+> Format: skriv _!_ tilføj _[Alt Text]_ skarpt efterfulgt af den valgte _(url)_, hvorfra billedet er fundet
 
 Række 1 | Række 2
 ------------ | -------------
