@@ -29,3 +29,9 @@
         1. Ret og tilføj en smule tekst, et billede, en stavefejl ( kan ske via GitHub eller GitHub desktop client/ATOM editor
         1. Gem ( commit changes ) og Pull request til Jeannette
         1. Jeannette vil forsøge at nå at **acceptere** jeres ændringer inden gå hjem mødet slutter
+        
+        
+Markdown understøtter EMOIJs - se http://www.emoji-cheat-sheet.com/ 
+I koden kan man se, hvordan man indsætter billeder og ikoner via brug af Markdown syntax´en
+
+Format: skriv ! tilføj [Alt Text] skarpt efterfulgt af den valgte (url), hvorfra billedet er fundet        
